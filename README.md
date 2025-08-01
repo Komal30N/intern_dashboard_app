@@ -1,16 +1,35 @@
-# intern_dash
+# 🧑‍💻 Intern Dashboard App
 
-A new Flutter project.
+A simple mobile app built with **Flutter** to simulate a **fundraising intern portal**. This app showcases key intern-related functionalities like referral tracking, donation leaderboard, and announcements.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Login & Signup pages
+- 📊 Intern dashboard showing:
+    - Intern name
+    - Referral code
+    - Total donations raised
+    - Unlockables (rewards or perks)
+- 🏆 Leaderboard with top donors
+- 📢 Announcements section
+- 🎨 Clean, minimal UI with animations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+![Login](lib/login.jpeg)  
+![Signup](lib/signup.jpeg)  
+![Dashboard](lib/Dashboard.jpeg)  
+![Leaderboard](lib/leaderboard.jpeg)  
+![Announcements](lib/Announcements.jpeg)
+
+```plaintext
+ScreenShots/
+├── login.jpeg
+├── signup.jpeg
+├── Dashboard.jpeg
+├── leaderboard.jpeg
+└── Announcements.jpeg
