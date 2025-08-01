@@ -19,11 +19,11 @@ A simple mobile app built with **Flutter** to simulate a **fundraising intern po
 ---
 
 ## 🖼️ Screenshots
-![Login](lib/screenshots/login.jpeg)
-![Signup](lib/screenshots/signup.jpeg)
-![Dashboard](lib/screenshots/Dashboard.jpeg)
-![Leaderboard](lib/screenshots/leaderboard.jpeg)
-![Announcements](lib/screenshots/Announcements.jpeg)
+![Login](lib/ScreenShots/login.jpeg)
+![Signup](lib/ScreenShots/signup.jpeg)
+![Dashboard](lib/ScreenShots/Dashboard.jpeg)
+![Leaderboard](lib/ScreenShots/leaderboard.jpeg)
+![Announcements](lib/ScreenShots/Announcements.jpeg)
 
 
 ```plaintext
